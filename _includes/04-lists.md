@@ -1,0 +1,3 @@
+- Bear
+- Ice Cream
+- Japan
